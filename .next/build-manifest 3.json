@@ -1,0 +1,344 @@
+{
+  "polyfillFiles": [
+    "static/chunks/polyfills-c67a75d1b6f99dc8.js"
+  ],
+  "devFiles": [],
+  "ampDevFiles": [],
+  "lowPriorityFiles": [
+    "static/44dl2yfdmvbA7kcrDkE-l/_buildManifest.js",
+    "static/44dl2yfdmvbA7kcrDkE-l/_ssgManifest.js"
+  ],
+  "rootMainFiles": [],
+  "pages": {
+    "/": [
+      "static/chunks/webpack-9c8580ab34f8c97f.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-0ecb9ccfcb6c9b24.js",
+      "static/css/665f4d0a2b8e4f15.css",
+      "static/chunks/371-2d9b16a824a39d1c.js",
+      "static/chunks/pages/index-3decc362d9a81c6a.js"
+    ],
+    "/_app": [
+      "static/chunks/webpack-9c8580ab34f8c97f.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-0ecb9ccfcb6c9b24.js",
+      "static/css/6247d8ef353a04d2.css",
+      "static/chunks/pages/_app-5b912deefc1363e6.js"
+    ],
+    "/_error": [
+      "static/chunks/webpack-9c8580ab34f8c97f.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-0ecb9ccfcb6c9b24.js",
+      "static/chunks/pages/_error-54de1933a164a1ff.js"
+    ],
+    "/about": [
+      "static/chunks/webpack-9c8580ab34f8c97f.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-0ecb9ccfcb6c9b24.js",
+      "static/css/665f4d0a2b8e4f15.css",
+      "static/chunks/371-2d9b16a824a39d1c.js",
+      "static/chunks/567-ee906b1422984d3a.js",
+      "static/chunks/pages/about-1c44ce15489aea8b.js"
+    ],
+    "/blog": [
+      "static/chunks/webpack-9c8580ab34f8c97f.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-0ecb9ccfcb6c9b24.js",
+      "static/css/665f4d0a2b8e4f15.css",
+      "static/chunks/371-2d9b16a824a39d1c.js",
+      "static/chunks/664-8af8765c6fed5950.js",
+      "static/chunks/567-ee906b1422984d3a.js",
+      "static/chunks/pages/blog-30c8e9eff4b93a45.js"
+    ],
+    "/blog/Best-Soapstone-Deals-in-Haldwani": [
+      "static/chunks/webpack-9c8580ab34f8c97f.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-0ecb9ccfcb6c9b24.js",
+      "static/css/665f4d0a2b8e4f15.css",
+      "static/chunks/371-2d9b16a824a39d1c.js",
+      "static/chunks/567-ee906b1422984d3a.js",
+      "static/chunks/pages/blog/Best-Soapstone-Deals-in-Haldwani-a8686b5fef0efd61.js"
+    ],
+    "/blog/Discover-the-Brilliance-of-Premium-Grade-Calcite-Powder": [
+      "static/chunks/webpack-9c8580ab34f8c97f.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-0ecb9ccfcb6c9b24.js",
+      "static/css/665f4d0a2b8e4f15.css",
+      "static/chunks/371-2d9b16a824a39d1c.js",
+      "static/chunks/567-ee906b1422984d3a.js",
+      "static/chunks/pages/blog/Discover-the-Brilliance-of-Premium-Grade-Calcite-Powder-3fd6fab8f175ca0f.js"
+    ],
+    "/blog/Fillerboys-Custom-Mineral-Solutions": [
+      "static/chunks/webpack-9c8580ab34f8c97f.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-0ecb9ccfcb6c9b24.js",
+      "static/css/665f4d0a2b8e4f15.css",
+      "static/chunks/371-2d9b16a824a39d1c.js",
+      "static/chunks/567-ee906b1422984d3a.js",
+      "static/chunks/pages/blog/Fillerboys-Custom-Mineral-Solutions-54d7524e7b43e358.js"
+    ],
+    "/blog/Fillerboys-bespoke-mineral-formulations": [
+      "static/chunks/webpack-9c8580ab34f8c97f.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-0ecb9ccfcb6c9b24.js",
+      "static/css/665f4d0a2b8e4f15.css",
+      "static/chunks/371-2d9b16a824a39d1c.js",
+      "static/chunks/567-ee906b1422984d3a.js",
+      "static/chunks/pages/blog/Fillerboys-bespoke-mineral-formulations-e83b13c7b306bf51.js"
+    ],
+    "/blog/Industrial-Applications-of-Soapstone-Powder": [
+      "static/chunks/webpack-9c8580ab34f8c97f.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-0ecb9ccfcb6c9b24.js",
+      "static/css/665f4d0a2b8e4f15.css",
+      "static/chunks/371-2d9b16a824a39d1c.js",
+      "static/chunks/567-ee906b1422984d3a.js",
+      "static/chunks/pages/blog/Industrial-Applications-of-Soapstone-Powder-29b0ada94deb5190.js"
+    ],
+    "/blog/Top-Grade-Calcite-Minerals": [
+      "static/chunks/webpack-9c8580ab34f8c97f.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-0ecb9ccfcb6c9b24.js",
+      "static/css/665f4d0a2b8e4f15.css",
+      "static/chunks/371-2d9b16a824a39d1c.js",
+      "static/chunks/567-ee906b1422984d3a.js",
+      "static/chunks/pages/blog/Top-Grade-Calcite-Minerals-ce1f283205dc2a66.js"
+    ],
+    "/blog/Udaipur's-Finest-Dolomite": [
+      "static/chunks/webpack-9c8580ab34f8c97f.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-0ecb9ccfcb6c9b24.js",
+      "static/css/665f4d0a2b8e4f15.css",
+      "static/chunks/371-2d9b16a824a39d1c.js",
+      "static/chunks/567-ee906b1422984d3a.js",
+      "static/chunks/pages/blog/Udaipur's-Finest-Dolomite-c86e4284810384fb.js"
+    ],
+    "/blog/Ultimate-quality-of-china-clay": [
+      "static/chunks/webpack-9c8580ab34f8c97f.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-0ecb9ccfcb6c9b24.js",
+      "static/css/665f4d0a2b8e4f15.css",
+      "static/chunks/371-2d9b16a824a39d1c.js",
+      "static/chunks/567-ee906b1422984d3a.js",
+      "static/chunks/pages/blog/Ultimate-quality-of-china-clay-1bd718c709ca0cdc.js"
+    ],
+    "/blog/Unbeatable-Prices-&-Logistics-Solutions-at-fillerboy": [
+      "static/chunks/webpack-9c8580ab34f8c97f.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-0ecb9ccfcb6c9b24.js",
+      "static/css/665f4d0a2b8e4f15.css",
+      "static/chunks/371-2d9b16a824a39d1c.js",
+      "static/chunks/567-ee906b1422984d3a.js",
+      "static/chunks/pages/blog/Unbeatable-Prices-&-Logistics-Solutions-at-fillerboy-e02aa12076954764.js"
+    ],
+    "/blog/calcite-in-ambaji": [
+      "static/chunks/webpack-9c8580ab34f8c97f.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-0ecb9ccfcb6c9b24.js",
+      "static/css/665f4d0a2b8e4f15.css",
+      "static/chunks/371-2d9b16a824a39d1c.js",
+      "static/chunks/567-ee906b1422984d3a.js",
+      "static/chunks/pages/blog/calcite-in-ambaji-cfb8db2f9d53f35d.js"
+    ],
+    "/blog/dolomite-mineral-compound-that-contains": [
+      "static/chunks/webpack-9c8580ab34f8c97f.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-0ecb9ccfcb6c9b24.js",
+      "static/css/665f4d0a2b8e4f15.css",
+      "static/chunks/371-2d9b16a824a39d1c.js",
+      "static/chunks/567-ee906b1422984d3a.js",
+      "static/chunks/pages/blog/dolomite-mineral-compound-that-contains-cb926c52bbb3124f.js"
+    ],
+    "/blog/eliable-and-Affordable-Logistics-Services": [
+      "static/chunks/webpack-9c8580ab34f8c97f.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-0ecb9ccfcb6c9b24.js",
+      "static/css/665f4d0a2b8e4f15.css",
+      "static/chunks/371-2d9b16a824a39d1c.js",
+      "static/chunks/567-ee906b1422984d3a.js",
+      "static/chunks/pages/blog/eliable-and-Affordable-Logistics-Services-81c7da25102fbe44.js"
+    ],
+    "/blog/endless-possibilities-of-soapstone": [
+      "static/chunks/webpack-9c8580ab34f8c97f.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-0ecb9ccfcb6c9b24.js",
+      "static/css/665f4d0a2b8e4f15.css",
+      "static/chunks/371-2d9b16a824a39d1c.js",
+      "static/chunks/567-ee906b1422984d3a.js",
+      "static/chunks/pages/blog/endless-possibilities-of-soapstone-5f92abd1a892a387.js"
+    ],
+    "/blog/fillerboy-premium-soapstone": [
+      "static/chunks/webpack-9c8580ab34f8c97f.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-0ecb9ccfcb6c9b24.js",
+      "static/css/665f4d0a2b8e4f15.css",
+      "static/chunks/371-2d9b16a824a39d1c.js",
+      "static/chunks/567-ee906b1422984d3a.js",
+      "static/chunks/pages/blog/fillerboy-premium-soapstone-da921c8b6e90b8a8.js"
+    ],
+    "/blog/high-quality-dolomite-supplier": [
+      "static/chunks/webpack-9c8580ab34f8c97f.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-0ecb9ccfcb6c9b24.js",
+      "static/css/665f4d0a2b8e4f15.css",
+      "static/chunks/371-2d9b16a824a39d1c.js",
+      "static/chunks/567-ee906b1422984d3a.js",
+      "static/chunks/pages/blog/high-quality-dolomite-supplier-a1e4020cf12241cf.js"
+    ],
+    "/blog/mineral-logistics-solutions": [
+      "static/chunks/webpack-9c8580ab34f8c97f.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-0ecb9ccfcb6c9b24.js",
+      "static/css/665f4d0a2b8e4f15.css",
+      "static/chunks/371-2d9b16a824a39d1c.js",
+      "static/chunks/567-ee906b1422984d3a.js",
+      "static/chunks/pages/blog/mineral-logistics-solutions-8221086bdd8adeba.js"
+    ],
+    "/blog/purest-form-of-china-clay": [
+      "static/chunks/webpack-9c8580ab34f8c97f.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-0ecb9ccfcb6c9b24.js",
+      "static/css/665f4d0a2b8e4f15.css",
+      "static/chunks/371-2d9b16a824a39d1c.js",
+      "static/chunks/567-ee906b1422984d3a.js",
+      "static/chunks/pages/blog/purest-form-of-china-clay-5133400cb563d18b.js"
+    ],
+    "/contact": [
+      "static/chunks/webpack-9c8580ab34f8c97f.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-0ecb9ccfcb6c9b24.js",
+      "static/css/665f4d0a2b8e4f15.css",
+      "static/chunks/371-2d9b16a824a39d1c.js",
+      "static/chunks/567-ee906b1422984d3a.js",
+      "static/chunks/pages/contact-07cea1c404bd6b66.js"
+    ],
+    "/product": [
+      "static/chunks/webpack-9c8580ab34f8c97f.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-0ecb9ccfcb6c9b24.js",
+      "static/css/665f4d0a2b8e4f15.css",
+      "static/chunks/371-2d9b16a824a39d1c.js",
+      "static/chunks/664-8af8765c6fed5950.js",
+      "static/chunks/567-ee906b1422984d3a.js",
+      "static/chunks/pages/product-de82e643f0f9f584.js"
+    ],
+    "/product/Calcined-clay": [
+      "static/chunks/webpack-9c8580ab34f8c97f.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-0ecb9ccfcb6c9b24.js",
+      "static/css/665f4d0a2b8e4f15.css",
+      "static/chunks/371-2d9b16a824a39d1c.js",
+      "static/chunks/567-ee906b1422984d3a.js",
+      "static/chunks/pages/product/Calcined-clay-773c1370dd97249a.js"
+    ],
+    "/product/Calcite": [
+      "static/chunks/webpack-9c8580ab34f8c97f.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-0ecb9ccfcb6c9b24.js",
+      "static/css/665f4d0a2b8e4f15.css",
+      "static/chunks/371-2d9b16a824a39d1c.js",
+      "static/chunks/567-ee906b1422984d3a.js",
+      "static/chunks/pages/product/Calcite-bf53583f596c9841.js"
+    ],
+    "/product/China-Clay": [
+      "static/chunks/webpack-9c8580ab34f8c97f.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-0ecb9ccfcb6c9b24.js",
+      "static/css/665f4d0a2b8e4f15.css",
+      "static/chunks/371-2d9b16a824a39d1c.js",
+      "static/chunks/567-ee906b1422984d3a.js",
+      "static/chunks/pages/product/China-Clay-47cfcc9ec16072b4.js"
+    ],
+    "/product/Diatomite": [
+      "static/chunks/webpack-9c8580ab34f8c97f.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-0ecb9ccfcb6c9b24.js",
+      "static/css/665f4d0a2b8e4f15.css",
+      "static/chunks/371-2d9b16a824a39d1c.js",
+      "static/chunks/567-ee906b1422984d3a.js",
+      "static/chunks/pages/product/Diatomite-58dfe8f94d9f4f62.js"
+    ],
+    "/product/Dolomite": [
+      "static/chunks/webpack-9c8580ab34f8c97f.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-0ecb9ccfcb6c9b24.js",
+      "static/css/665f4d0a2b8e4f15.css",
+      "static/chunks/371-2d9b16a824a39d1c.js",
+      "static/chunks/567-ee906b1422984d3a.js",
+      "static/chunks/pages/product/Dolomite-3ae99b8a808c0706.js"
+    ],
+    "/product/Feldspar": [
+      "static/chunks/webpack-9c8580ab34f8c97f.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-0ecb9ccfcb6c9b24.js",
+      "static/css/665f4d0a2b8e4f15.css",
+      "static/chunks/371-2d9b16a824a39d1c.js",
+      "static/chunks/567-ee906b1422984d3a.js",
+      "static/chunks/pages/product/Feldspar-59083c9882dade5a.js"
+    ],
+    "/product/Hydrated-Lime": [
+      "static/chunks/webpack-9c8580ab34f8c97f.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-0ecb9ccfcb6c9b24.js",
+      "static/css/665f4d0a2b8e4f15.css",
+      "static/chunks/371-2d9b16a824a39d1c.js",
+      "static/chunks/567-ee906b1422984d3a.js",
+      "static/chunks/pages/product/Hydrated-Lime-4faa2fbdd7331979.js"
+    ],
+    "/product/Manganese": [
+      "static/chunks/webpack-9c8580ab34f8c97f.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-0ecb9ccfcb6c9b24.js",
+      "static/css/665f4d0a2b8e4f15.css",
+      "static/chunks/371-2d9b16a824a39d1c.js",
+      "static/chunks/567-ee906b1422984d3a.js",
+      "static/chunks/pages/product/Manganese-aac720de7be1eca1.js"
+    ],
+    "/product/Precipitated-Calcium-Carbonate": [
+      "static/chunks/webpack-9c8580ab34f8c97f.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-0ecb9ccfcb6c9b24.js",
+      "static/css/665f4d0a2b8e4f15.css",
+      "static/chunks/371-2d9b16a824a39d1c.js",
+      "static/chunks/567-ee906b1422984d3a.js",
+      "static/chunks/pages/product/Precipitated-Calcium-Carbonate-f4e112bb60f888f8.js"
+    ],
+    "/product/Quartz": [
+      "static/chunks/webpack-9c8580ab34f8c97f.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-0ecb9ccfcb6c9b24.js",
+      "static/css/665f4d0a2b8e4f15.css",
+      "static/chunks/371-2d9b16a824a39d1c.js",
+      "static/chunks/567-ee906b1422984d3a.js",
+      "static/chunks/pages/product/Quartz-8be51189e1c36686.js"
+    ],
+    "/product/Soapstone": [
+      "static/chunks/webpack-9c8580ab34f8c97f.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-0ecb9ccfcb6c9b24.js",
+      "static/css/665f4d0a2b8e4f15.css",
+      "static/chunks/371-2d9b16a824a39d1c.js",
+      "static/chunks/567-ee906b1422984d3a.js",
+      "static/chunks/pages/product/Soapstone-8eb623c1f1fd2d78.js"
+    ],
+    "/product/Wollastonite": [
+      "static/chunks/webpack-9c8580ab34f8c97f.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-0ecb9ccfcb6c9b24.js",
+      "static/css/665f4d0a2b8e4f15.css",
+      "static/chunks/371-2d9b16a824a39d1c.js",
+      "static/chunks/567-ee906b1422984d3a.js",
+      "static/chunks/pages/product/Wollastonite-e58a34318c82cf09.js"
+    ],
+    "/service": [
+      "static/chunks/webpack-9c8580ab34f8c97f.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-0ecb9ccfcb6c9b24.js",
+      "static/css/665f4d0a2b8e4f15.css",
+      "static/chunks/371-2d9b16a824a39d1c.js",
+      "static/chunks/567-ee906b1422984d3a.js",
+      "static/chunks/pages/service-60f1958600350312.js"
+    ]
+  },
+  "ampFirstPages": []
+}

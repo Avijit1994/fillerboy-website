@@ -1,0 +1,92 @@
+
+
+
+/***********responsive**************/
+
+@media screen and (min-width: 1600px){
+	.container{width: 1260px;}
+}
+
+
+@media screen and (max-width: 768px){
+	.navbar-nav {
+    padding-left: 25%;
+}
+.info_bx p{font-size: 13px;}
+.log_bx{text-align: left;}
+.call, .email{font-size: 13px;}
+.call img, .email img{width: 15px;}
+.call {
+    padding-right: 10px;
+}
+.fot_logo img{width: 120px;}
+.fot_logo p{font-size: 13px;}
+.blog_box{width: 295px;}
+.social{padding-left: 0;}
+.social li{width: 30px;
+    height: 30px;}
+.social li i{font-size: 14px;}
+ .form{width: 100%;}
+ .video iframe{width: 100%;}
+ .banner_left h2{font-size: 33px;}
+ .custo_txt{padding-left: 0;}
+ .banner_left img{width: 100px;}
+ .choose_us h2{font-size: 33px;}
+ .choose_us_box{width: 297px}
+ .innovative_txt{font-size: 33px;}
+ .material_box{width: 297px;}
+}
+@media screen and (max-width: 600px){
+	.navbar-nav {
+    padding-left: 0;
+}
+.info_bx {
+    text-align: center;
+}
+.log_bx {
+    text-align: center;
+    margin-bottom: 10px;
+}
+.info_bx p {
+    margin-bottom: 0;
+}
+.blog h1{font-size: 50px;}
+.blog_box h5{font-size: 15px;text-align: center;}
+.blog_box {
+    width: 100%;
+}
+.fot_logo {
+    text-align: center;
+}
+.fot_top_txt {
+    text-align: center;
+}
+
+	
+}
+@media screen and (max-width: 425px){
+	
+
+}
+
+
+@media screen and (max-width: 320px){
+	.contact_txt{font-size: 40px;}
+    .form{width: 100%;}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
