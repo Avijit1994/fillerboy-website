@@ -23,7 +23,7 @@ export default function () {
 									<p>At Fillerboy Pvt. Ltd, we understand that every industry has unique needs when it comes to minerals. That's why we specialize in creating bespoke mineral formulations that cater to your specific requirements, helping you unlock your industry's true potential.</p>
 										</div>
 										<div className="col-md-4 product_detail_right">
-											<Image src="/blog/5. Unlock Your Industry's Potential with Fillerboy's Bespoke Mineral Formulations.jpg" width={100} height={300}/>
+											<Image alt='fillerboy'  src="/blog/5. Unlock Your Industry's Potential with Fillerboy's Bespoke Mineral Formulations.jpg" width={100} height={300}/>
 										</div>
 										<div className="col-md-12 dolomite_text">
 											{/* <h3>What is Dolomite</h3> */}

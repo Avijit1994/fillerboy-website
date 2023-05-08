@@ -23,7 +23,7 @@ export default function () {
 									<p>Fillerboy offers tailor-made mineral solutions for your industrial needs, from conceptualization to finalization. Our proficient team employs cutting-edge technology to craft personalized mineral blends, including dolomite, calcite, china clay, soapstone, feldspar, quartz, calcined clay, manganese, and hydrated lime, to enhance your processes and product performance.</p>
 										</div>
 										<div className="col-md-4 product_detail_right">
-											<Image src="/blog/6. From Concept to Creation How Fillerboy Delivers Custom Mineral Solutions.jpg" width={100} height={300}/>
+											<Image alt='fillerboy'  src="/blog/6. From Concept to Creation How Fillerboy Delivers Custom Mineral Solutions.jpg" width={100} height={300}/>
 										</div>
 										<div className="col-md-12 dolomite_text">
 											{/* <h3>What is Dolomite</h3> */}

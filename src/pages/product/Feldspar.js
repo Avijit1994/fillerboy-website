@@ -24,7 +24,7 @@ export default function () {
 										<p>Fillerboy , one of the leading Calcite Suppliers in India, provides high-quality Calcite to a variety of industries around the world.</p>
                                         </div>
 										<div className="col-md-4 product_detail_right">
-											<Image src="/product/DOLOMITE.png" width={200} height={300}/>
+											<Image alt='fillerboy'  src="/product/DOLOMITE.png" width={200} height={300}/>
 										</div>
 										<div className="col-md-12 dolomite_text">
 											<h3>What is Calcite:</h3>

@@ -23,7 +23,7 @@ export default function () {
 									<p>Soapstone powder is a versatile mineral that has a wide range of industrial applications. Also known as steatite powder, it is a soft, naturally occurring mineral composed primarily of magnesium silicate. Here are some of the most common industrial applications of soapstone powder:</p>
 										</div>
 										<div className="col-md-4 product_detail_right">
-											<Image src="/blog/3. Industrial Applications of Soapstone Powder.jpg" width={100} height={300}/>
+											<Image src="/blog/3. Industrial Applications of Soapstone Powder.jpg" alt='fillerboy'  width={100} height={300}/>
 										</div>
 										<div className="col-md-12 dolomite_text">
 											<h3>Industry</h3>

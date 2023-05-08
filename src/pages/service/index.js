@@ -13,7 +13,7 @@ export default function () {
             <Head title="Fillerboy | About" />
         
                 <div>
-                    <main classNameName="main">
+                    <main className="main">
 
                     <section className="service">
 			<div className="container">
@@ -31,49 +31,49 @@ export default function () {
 					<p></p>
 					</div>
 					<div className="col-md-7 ser_box_top_right">
-						<Image src="/fillerboy-SupplyChain-banner.png" width={500} height={500}/>
+						<Image alt='fillerboy'  src="/fillerboy-SupplyChain-banner.png" width={500} height={500}/>
 					</div>
 				</div>
 				<div className="choose_us">
                                     <h2>WHY CHOOSE US?</h2>
                                     <div className="choose_us_panel">
                                         <div className="choose_us_box">
-                                            <Image src="/icon.png" width={50} height={50}/>
+                                            <Image alt='fillerboy'  src="/icon.png" width={50} height={50}/>
                                             <h5>Upgraded Techno</h5>
                                             <p>At FillerBoy, quality is at the heart of everything we do. We're proud to be known as the top mineral supplier in India</p>
                                         </div>
                                         <div className="choose_us_box">
-                                            <Image src="/icon.png" width={50} height={50}/>
+                                            <Image alt='fillerboy'  src="/icon.png" width={50} height={50}/>
                                             <h5>Hassle-free Service</h5>
                                             <p>At FillerBoy, quality is at the heart of everything we do. We're proud to be known as the top mineral supplier in India</p>
                                         </div>
                                         <div className="choose_us_box">
-                                            <Image src="/icon.png" width={50} height={50}/>
+                                            <Image alt='fillerboy'  src="/icon.png" width={50} height={50}/>
                                             <h5>Incomparable Quali</h5>
                                             <p>At FillerBoy, quality is at the heart of everything we do. We're proud to be known as the top mineral supplier in India</p>
                                         </div>
                                         <div className="choose_us_box">
-                                            <Image src="/icon.png" width={50} height={50}/>
+                                            <Image  alt='fillerboy'  src="/icon.png" width={50} height={50}/>
                                             <h5>Free Consultation</h5>
                                             <p>At FillerBoy, quality is at the heart of everything we do. We're proud to be known as the top mineral supplier in India</p>
                                         </div>
                                         <div className="choose_us_box">
-                                            <Image src="/icon.png" width={50} height={50}/>
+                                            <Image alt='fillerboy'  src="/icon.png" width={50} height={50}/>
                                             <h5>Skilled Work Force</h5>
                                             <p>At FillerBoy, quality is at the heart of everything we do. We're proud to be known as the top mineral supplier in India</p>
                                         </div>
                                         <div className="choose_us_box">
-                                            <Image src="/icon.png" width={50} height={50}/>
+                                            <Image alt='fillerboy'  src="/icon.png" width={50} height={50}/>
                                             <h5>Easiest Accountan</h5>
                                             <p>At FillerBoy, quality is at the heart of everything we do. We're proud to be known as the top mineral supplier in India</p>
                                         </div>
                                         <div className="choose_us_box">
-                                            <Image src="/icon.png" width={50} height={50}/>
+                                            <Image alt='fillerboy'  src="/icon.png" width={50} height={50}/>
                                             <h5>Supplying a Wid</h5>
                                             <p>At FillerBoy, quality is at the heart of everything we do. We're proud to be known as the top mineral supplier in India</p>
                                         </div>
                                         <div className="choose_us_box">
-                                            <Image src="/icon.png" width={50} height={50}/>
+                                            <Image alt='fillerboy'  src="/icon.png" width={50} height={50}/>
                                             <h5>Quality at its Core</h5>
                                             <p>At FillerBoy, quality is at the heart of everything we do. We're proud to be known as the top mineral supplier in India</p>
                                         </div>

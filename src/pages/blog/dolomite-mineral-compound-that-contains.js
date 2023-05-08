@@ -24,7 +24,7 @@ export default function () {
 									
 										</div>
 										<div className="col-md-4 product_detail_right">
-											<Image src="/blog/2. Dolomite is a mineral compound that contains calcium magnesium carbonate (CaMg(CO3)2) in varying proportions.jpg" width={100} height={300}/>
+											<Image src="/blog/2. Dolomite is a mineral compound that contains calcium magnesium carbonate (CaMg(CO3)2) in varying proportions.jpg" alt='fillerboy'  width={100} height={300}/>
 										</div>
 										<div className="col-md-12 dolomite_text">
 											<h3>Industry</h3>

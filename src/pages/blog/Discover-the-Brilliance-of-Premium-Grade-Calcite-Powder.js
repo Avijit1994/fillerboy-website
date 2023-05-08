@@ -24,7 +24,7 @@ export default function () {
 									
 										</div>
 										<div className="col-md-4 product_detail_right">
-											<Image src="/blog/1. Discoverthe-Brilliance-of-Premium-Grade-Calcite-Powder.jpg" width={100} height={300}/>
+											<Image src="/blog/1. Discoverthe-Brilliance-of-Premium-Grade-Calcite-Powder.jpg" width={100} alt='fillerboy'  height={300}/>
 										</div>
 										<div className="col-md-12 dolomite_text">
 											<h3>Discover the Brilliance of Premium</h3>

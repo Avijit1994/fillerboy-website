@@ -28,7 +28,7 @@ export default function () {
 											team is immensely dedicated to providing </p>
 										</div>
 										<div className="col-md-4 product_detail_right">
-											<Image src="/blog1.png" width={100} height={300}/>
+											<Image src="/blog1.png" width={100} height={300} alt='fillerboy' />
 										</div>
 										<div className="col-md-12 dolomite_text">
 											<h3>What is Dolomite</h3>

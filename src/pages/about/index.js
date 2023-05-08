@@ -10,8 +10,8 @@ export default function About() {
         <>
             {/* <Head title="about of me"/>
             <Navbar/> */}
-            <Head title="Fillerboy | About" />
-           
+            <Head />
+            
                 <div>
                     <main className="main">
 
@@ -27,7 +27,7 @@ export default function About() {
                                         <p>The FillerBoy Pvt. Ltd is one of the leading companies when it comes to supplying industrial minerals. Our team is immensely dedicated to providing all the customer's industry-standard materials at an extremely competitive price point. Our company initiated the journey in 2004. We are mainly focusing on B2B chain delivering all types of minerals of all grades found and mined all over the state of Rajasthan, Gujarat, Madhya Pradesh, and Uttarakhand. We are aiming to be the pioneer of the mineral industry. Our headquarter is at Udaipur, Rajasthan is one of the most researched cities in India in terms of mining. We are arguably the best mineral supplier in Rajasthan.</p>
                                     </div>
                                     <div className="col-md-5 about_box_top_right">
-                                        <Image src="/about-pic.png" width={400} height={400} />
+                                        <Image src="/about-pic.png" width={400} height={400} alt='fillerboy' />
 
                                     </div>
                                 </div>
@@ -36,42 +36,42 @@ export default function About() {
                                     <h2>WHY CHOOSE US?</h2>
                                     <div className="choose_us_panel">
                                         <div className="choose_us_box">
-                                            <Image src="/icon.png" width={50} height={50}/>
+                                            <Image src="/icon.png" width={50} height={50} alt='Rectangle.png'/>
                                             <h5>Upgraded Technology</h5>
                                             <p>At FillerBoy, quality is at the heart of everything we do. We're proud to be known as the top mineral supplier in India</p>
                                         </div>
                                         <div className="choose_us_box">
-                                            <Image src="/icon.png" width={50} height={50}/>
+                                            <Image src="/icon.png" width={50} height={50} alt='Rectangle.png'/>
                                             <h5>Hassle-free Service</h5>
                                             <p>At FillerBoy, quality is at the heart of everything we do. We're proud to be known as the top mineral supplier in India</p>
                                         </div>
                                         <div className="choose_us_box">
-                                            <Image src="/icon.png" width={50} height={50}/>
+                                            <Image src="/icon.png" width={50} height={50} alt='Rectangle.png'/>
                                             <h5>Incomparable Quality</h5>
                                             <p>At FillerBoy, quality is at the heart of everything we do. We're proud to be known as the top mineral supplier in India</p>
                                         </div>
                                         <div className="choose_us_box">
-                                            <Image src="/icon.png" width={50} height={50}/>
+                                            <Image src="/icon.png" width={50} height={50} alt='Rectangle.png'/>
                                             <h5>Free Consultation</h5>
                                             <p>At FillerBoy, quality is at the heart of everything we do. We're proud to be known as the top mineral supplier in India</p>
                                         </div>
                                         <div className="choose_us_box">
-                                            <Image src="/icon.png" width={50} height={50}/>
+                                            <Image src="/icon.png" width={50} height={50} alt='Rectangle.png'/>
                                             <h5>Skilled Work Force</h5>
                                             <p>At FillerBoy, quality is at the heart of everything we do. We're proud to be known as the top mineral supplier in India</p>
                                         </div>
                                         <div className="choose_us_box">
-                                            <Image src="/icon.png" width={50} height={50}/>
+                                            <Image src="/icon.png" width={50} height={50} alt='Rectangle.png'/>
                                             <h5>Easiest Accountancy Available</h5>
                                             <p>At FillerBoy, quality is at the heart of everything we do. We're proud to be known as the top mineral supplier in India</p>
                                         </div>
                                         <div className="choose_us_box">
-                                            <Image src="/icon.png" width={50} height={50}/>
+                                            <Image src="/icon.png" width={50} height={50} alt='Rectangle.png'/>
                                             <h5>Supplying a Wide Range of Minerals</h5>
                                             <p>At FillerBoy, quality is at the heart of everything we do. We're proud to be known as the top mineral supplier in India</p>
                                         </div>
                                         <div className="choose_us_box">
-                                            <Image src="/icon.png" width={50} height={50}/>
+                                            <Image src="/icon.png" width={50} height={50} alt='Rectangle.png'/>
                                             <h5>Quality at its Core</h5>
                                             <p>At FillerBoy, quality is at the heart of everything we do. We're proud to be known as the top mineral supplier in India</p>
                                         </div>
@@ -84,21 +84,21 @@ export default function About() {
                                     <div className="testi_panel">
                                         <div className="testi_box">
                                             <div className="testi_box_top">
-                                                <Image src="/Testimonial/Ankit.jpg" width={50} height={50}/>
+                                                <Image src="/Testimonial/Ankit.jpg" width={50} height={50} alt='Rectangle.png'/>
                                                 <p>I Proudly Say Fillerboy Minerals is Very Good industrial minerals supplier, I have the best experience with this company. They provide best quality quartz powder and feldspar lumps at reasonable prices</p>
                                             </div>
 
                                         </div>
                                         <div className="testi_box">
                                             <div className="testi_box_top">
-                                                <Image src="/Testimonial/Rahul-Sen.jpg" width={50} height={50} />
+                                                <Image src="/Testimonial/Rahul-Sen.jpg" width={50} height={50} alt='Rectangle.png'/>
                                                 <p>I really appreciate Fillerboy Minerals Team and Mr. Sanjay Patel for their countless effort for providing me excellent service and wide range of Quartz powder at affordable price.very good Minerals,</p>
                                             </div>
 
                                         </div>
                                         <div className="testi_box">
                                             <div className="testi_box_top">
-                                                <Image src="/Testimonial/Sonam-sarkar.jpg" width={50} height={50}/>
+                                                <Image src="/Testimonial/Sonam-sarkar.jpg" width={50} height={50} alt='Rectangle.png'/>
                                                 <p>I must mention that Fillerboy Pvt Ltd is an excellent firm that supplies us with high-quality soapstone that meets our specifications. We got a great deal and hope to do more business in the future.</p>
                                             </div>
 

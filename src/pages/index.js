@@ -7,12 +7,15 @@ import Head from "@/components/Header";
 import Footer from "@/components/footer";
 const inter = Inter({ subsets: ['latin'] })
 
+
+
 export default function Home() {
+
 	return (
 		<>
 
 			<Head>
-				<title> | Blog</title>
+				<title> | Fillerboy</title>
 				<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" />
 				<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></link>
 			</Head>
@@ -25,12 +28,12 @@ export default function Home() {
 							<p>Transform your industrial game with Fillerboy Pvt. Ltd's awe-inspiring mineral solutions! Our expertise in providing custom-fit mineral products and unparalleled customer service will leave you stunned. Get ready to skyrocket your business.</p>
 							<p></p>
 							<ul>
-								<li><a href="https://play.google.com/store/apps/details?id=com.fillerboycustomer"><Image src="/Playstore.png" width={120} height={40} /></a></li>
-								<li><a href=""><Image src="/Appstore.png" width={120} height={40} /></a></li>
+								<li><a href="https://play.google.com/store/apps/details?id=com.fillerboycustomer"><Image src="/Playstore.png" width={120} height={40} alt='Rectangle.png' /></a></li>
+								<li><a href=""><Image src="/Appstore.png" width={120} height={40} alt='svdfvd' /></a></li>
 							</ul>
 						</div>
 						<div className="col-md-5 banner_right">
-							<Image src="/banner_pic.png" width={250} height={450} />
+							<Image src="/banner_pic.png" width={250} height={450} alt='Rectangle.png'/>
 						</div>
 					</div>
 				</div>
@@ -40,22 +43,22 @@ export default function Home() {
 						<h2>Embody Excellence with Every Habit</h2>
 						<div className="choose_us_panel">
 							<div className="choose_us_box">
-								<Image src="/icon.png" width={40} height={40} />
+								<Image src="/icon.png" width={40} height={40} alt='Rectangle.png' />
 								<h5>Quality at its Core</h5>
 								<p>At FillerBoy, quality is at the heart of everything we do. We're proud to be known as the top mineral supplier in India, and we never compromise on the exceptional standards we've </p>
 							</div>
 							<div className="choose_us_box">
-								<Image src="/icon.png" width={40} height={40} />
+								<Image src="/icon.png" width={40} height={40} alt='Rectangle.png'/>
 								<h5>Client Delight</h5>
 								<p>Discover a world of minerals at Global Mineral Hub. Find high-quality minerals from trusted suppliers. Seamless transactions, secure and efficient. Start your mineral journey with us.</p>
 							</div>
 							<div className="choose_us_box">
-								<Image src="/icon.png" width={40} height={40} />
+								<Image src="/icon.png" width={40} height={40} alt='Rectangle.png'/>
 								<h5>Limitless Options</h5>
 								<p>With FillerBoy, the possibilities are endless. Our extensive product portfolio offers a wide range of industry-grade minerals. Our expert team is here to assist you in making the best </p>
 							</div>
 							<div className="choose_us_box">
-								<Image src="/icon.png" width={40} height={40} />
+								<Image src="/icon.png" width={40} height={40} alt='Rectangle.png'/>
 								<h5>Get more for less</h5>
 								<p>At FillerBoy, we believe that everyone deserves access to high-quality industrial minerals. We provide the best products at the most affordable prices you in making the best making the </p>
 							</div>
@@ -82,21 +85,21 @@ export default function Home() {
 							</div>
 							<div className="col-md-6 innovative_right">
 								<div className="innovative_right_bx">
-									<Image src="/icon.png" width={60} height={20} />
+									<Image src="/icon.png" width={60} height={20} alt='Rectangle.png'/>
 									<div className="innovative_right_bx_txt">
 										<h6>Inventory Quality Control</h6>
 										<p>We ensure all inventories are inspected for proper storage, handling, and maintenance to preserve quality for long-term use.</p>
 									</div>
 								</div>
 								<div className="innovative_right_bx">
-									<Image src="/icon.png" width={60} height={20} />
+									<Image src="/icon.png" width={60} height={20} alt='Rectangle.png'/>
 									<div className="innovative_right_bx_txt">
 										<h6>Transportation Reliability</h6>
 										<p>Our logistics service guarantees safe and timely shipment of products to their destination, ensuring professional handling and secure transportation.</p>
 									</div>
 								</div>
 								<div className="innovative_right_bx">
-									<Image src="/icon.png" width={60} height={20} />
+									<Image src="/icon.png" width={60} height={20} alt='Rectangle.png'/>
 									<div className="innovative_right_bx_txt">
 										<h6>Ship storage check</h6>
 										<p>We perform thorough checks to ensure all containers are free from potential contaminants before loading onto ships.</p>
@@ -110,24 +113,24 @@ export default function Home() {
 						<h2 className="partner_txt">Partnering in your Growth</h2>
 						<div className="row partner_bx text-center">
 							<div className="col-md-3 partner_bx_content">
-								<Image src="/icon1.png" width={40} height={50} />
+								<Image src="/icon1.png" width={40} height={50} alt='Rectangle.png'/>
 								<h5>Get more for less</h5>
 							</div>
 							<div className="col-md-3 partner_bx_content">
-								<Image src="/icon1.png" width={40} height={50} />
+								<Image src="/icon1.png" width={40} height={50} alt='Rectangle.png'/>
 								<h5>Get more for less</h5>
 							</div>
 							<div className="col-md-3 partner_bx_content">
-								<Image src="/icon1.png" width={40} height={50} />
+								<Image src="/icon1.png" width={40} height={50} alt='Rectangle.png' />
 								<h5>Get more for less</h5>
 							</div>
 							<div className="col-md-3 partner_bx_content">
-								<Image src="/icon1.png" width={40} height={50} />
+								<Image src="/icon1.png" width={40} height={50} alt='Rectangle.png'/>
 								<h5>Get more for less</h5>
 							</div>
 						</div>
 						<div className="video">
-							<iframe width="1000px" height="500" src="https://www.youtube.com/embed/DpAURqwYbJo" title="YouTube video player"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+							<iframe width="1000px" height="500" src="https://www.youtube.com/embed/DpAURqwYbJo" title="YouTube video player"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" ></iframe>
 						</div>
 					</div>
 
@@ -135,19 +138,19 @@ export default function Home() {
 						<h2 className="material_txt">Raw Materials at Lowest Prices-Guaranteed</h2>
 						<div className="material_panel">
 							<div className="material_box">
-								<a href="#"><Image src="/product/CALCITE.png" width={100} height={200} /></a>
+								<a href="#"><Image src="/product/CALCITE.png" width={100} height={200} alt='Rectangle.png'/></a>
 								<a href="#"><h5>CALCITE</h5></a>
 							</div>
 							<div className="material_box">
-								<a href="#"><Image src="/product/DOLOMITE.png" width={100} height={200} /></a>
+								<a href="#"><Image src="/product/DOLOMITE.png" width={100} height={200} alt='Rectangle.png'/></a>
 								<a href="#"><h5>DOLOMITE</h5></a>
 							</div>
 							<div className="material_box">
-								<a href="#"><Image src="/product/SOAPSTONE.png" width={100} height={200} /></a>
+								<a href="#"><Image src="/product/SOAPSTONE.png" width={100} height={200} alt='Rectangle.png'/></a>
 								<a href="#"><h5>SOAPSTONE</h5></a>
 							</div>
 							<div className="material_box">
-								<a href="#"><Image src="/product/CHINA-CLAY.png" width={100} height={200} /></a>
+								<a href="#"><Image src="/product/CHINA-CLAY.png" width={100} height={200} alt='Rectangle.png'/></a>
 								<a href="#"><h5>CHINA CLAY</h5></a>
 							</div>
 						</div>
@@ -158,7 +161,7 @@ export default function Home() {
 						<div className="press_panel">
 							<div className="press_box">
 								<div className="press_box_top">
-									<Image src="/Rectangle.png" width={50} height={30} />
+									<Image src="/Rectangle.png" width={50} height={30} alt='Rectangle.png'/>
 									<h5>Rahul Sen</h5>
 								</div>
 								<p>I Proudly Say Fillerboy Minerals is Very Good industrial minerals supplier, I have the best experience with this company. They provide best quality quartz powder and feldspar lumps at reasonable prices</p>
@@ -166,7 +169,7 @@ export default function Home() {
 							</div>
 							<div className="press_box">
 								<div className="press_box_top">
-									<Image src="/Rectangle.png" width={50} height={30} />
+									<Image src="/Rectangle.png" width={50} height={30} alt='Rectangle.png'/>
 									<h5>Ankit Roy</h5>
 								</div>
 								<p>I really appreciate Fillerboy Minerals Team and Mr. Sanjay Patel for their countless effort for providing me excellent service and wide range of Quartz powder at affordable price.very good Minerals,</p>
@@ -174,7 +177,7 @@ export default function Home() {
 							</div>
 							<div className="press_box">
 								<div className="press_box_top">
-									<Image src="/Rectangle.png" width={50} height={30} />
+									<Image src="/Rectangle.png" width={50} height={30} alt='Rectangle.png'/>
 									<h5>Sonam Sarkar</h5>
 								</div>
 								<p>I must mention that Fillerboy Pvt Ltd is an excellent firm that supplies us with high-quality soapstone that meets our specifications. We got a great deal and hope to do more business in the future.</p>
@@ -197,5 +200,6 @@ export default function Home() {
 
 			{/* <Script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"/> */}
 		</>
+		
 	)
 }

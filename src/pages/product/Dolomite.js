@@ -23,7 +23,7 @@ export default function () {
 									<p>The greatest Dolomite mineral in India is available from Fillerboy Pvt Ltd for the most affordable price. We are one of Rajasthan's largest dolomite suppliers to the concrete and detergent industries. Fillerboy Pvt Ltd offers dolomite mineral at the most affordable costs in India and worldwide. Dolomite provider Fillerboy Pvt Ltd . is widely recognized. Our services deliver Dolomite to our client's doorsteps while purifying and enhancing its richness.</p>
 										</div>
 										<div className="col-md-4 product_detail_right">
-											<Image src="/product/DOLOMITE.png" width={200} height={300}/>
+											<Image  alt='fillerboy'  src="/product/DOLOMITE.png" width={200} height={300}/>
 										</div>
 										<div className="col-md-12 dolomite_text">
 											<h3>What is Dolomite</h3>

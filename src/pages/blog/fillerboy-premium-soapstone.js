@@ -24,7 +24,7 @@ export default function () {
 									
 										</div>
 										<div className="col-md-4 product_detail_right">
-											<Image src="/blog/4. Unleash the Magic of Fillerboy's Premium SoapstoneExquisite Beauty and Durability Combined.jpg" width={100} height={300}/>
+											<Image alt='fillerboy'  src="/blog/4. Unleash the Magic of Fillerboy's Premium SoapstoneExquisite Beauty and Durability Combined.jpg" width={100} height={300}/>
 										</div>
 										<div className="col-md-12 dolomite_text">
 											{/* <h3>What is Dolomite</h3> */}
