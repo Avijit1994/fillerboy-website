@@ -4,7 +4,7 @@ import Test from "@/components/Test";
 import Footer from "@/components/footer";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Image from 'next/image'
-
+import Link from 'next/link';
 export default function About() {
     return (
         <>

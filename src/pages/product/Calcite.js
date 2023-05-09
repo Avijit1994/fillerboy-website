@@ -4,7 +4,7 @@ import Navbar from "@/components/NavbarScreen";
 import Test from "@/components/Test";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Image from 'next/image'
-
+import Link from 'next/link';
 export default function () {
 	return (
         <>

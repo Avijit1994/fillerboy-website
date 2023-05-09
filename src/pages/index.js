@@ -5,6 +5,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 // import '../styles/responsive.css';
 import Head from "@/components/Header";
 import Footer from "@/components/footer";
+import Link from 'next/link';
 const inter = Inter({ subsets: ['latin'] })
 
 
@@ -28,8 +29,8 @@ export default function Home() {
 							<p>Transform your industrial game with Fillerboy Pvt. Ltd's awe-inspiring mineral solutions! Our expertise in providing custom-fit mineral products and unparalleled customer service will leave you stunned. Get ready to skyrocket your business.</p>
 							<p></p>
 							<ul>
-								<li><Link href="https://play.google.com/store/apps/details?id=com.fillerboycustomer"><Image src="/Playstore.png" width={120} height={40} alt='Rectangle.png' /></Link></li>
-								<li><Link href=""><Image src="/Appstore.png" width={120} height={40} alt='svdfvd' /></Link></li>
+								{/* <li><Link href="https://play.google.com/store/apps/details?id=com.fillerboycustomer"><Image src="/Playstore.png" width={120} height={40} alt='Rectangle.png' /></Link></li>
+								<li><Link href=""><Image src="/Appstore.png" width={120} height={40} alt='svdfvd' /></Link></li> */}
 							</ul>
 						</div>
 						<div className="col-md-5 banner_right">
@@ -63,6 +64,7 @@ export default function Home() {
 								<p>At FillerBoy, we believe that everyone deserves access to high-quality industrial minerals. We provide the best products at the most affordable prices you in making the best making the </p>
 							</div>
 						</div>
+					
 						{/* <div className="indicators text-center">
 							<ul>
 								<li><i className="fa fa-circle actv"></i></li>

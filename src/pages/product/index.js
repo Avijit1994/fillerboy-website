@@ -5,7 +5,6 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Footer from "@/components/footer";
 import Image from 'next/image'
 import Link from 'next/link';
-
 export default function product() {
     return (
         <>
