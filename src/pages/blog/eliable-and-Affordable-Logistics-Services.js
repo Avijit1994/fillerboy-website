@@ -35,7 +35,7 @@ export default function () {
 											<p>With the chemical formula CaMg(CO3)2, calcium magnesium carbonate, generally known as dolomite, is a well-known sedimentary rock. Although Dolomite contains more Magnesium Carbonate components, Limestone and Dolomite have extremely similar chemical compositions and uses. The iron and steel industries utilize dolomite as a flux or sintering agent. Still, due to its increased MgO concentration, it may also be used as a fertilizer, a calcium and magnesium supplement for livestock feed (CaMg(CO3)2), and as a component in the manufacture of glass, ceramics, and bricks.<br/>
 												With the chemical formula CaMg(CO3)2, calcium magnesium carbonate, generally known as dolomite, is a well-known sedimentary rock. Although Dolomite contains more Magnesium Carbonate components, Limestone and Dolomite have extremely similar chemical compositions and uses. The iron and steel industries utilize dolomite as a flux or sintering agent. Still, due to its increased MgO concentration, it may also be used as a fertilizer, a calcium and magnesium supplement for livestock feed (CaMg(CO3)2), and as a component in the manufacture of glass, ceramics, and bricks.</p>
 											</div>
-												<div className="col-md-12 dolomite_point text-center">
+												{/* <div className="col-md-12 dolomite_point text-center">
 													<h3>What is Dolomite</h3>
 													<ul>
 														<li><a href="#"><i className="fa fa-circle"></i> Concrete</a></li>
@@ -51,7 +51,7 @@ export default function () {
 														<li><a href="#"><i className="fa fa-circle"></i> Concrete</a></li>
 														<li><a href="#"><i className="fa fa-circle"></i> Concrete</a></li>
 													</ul>
-												</div>
+												</div> */}
 										</div>
 								</div>
 							</section>

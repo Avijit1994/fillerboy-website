@@ -14,7 +14,7 @@ export default function Footer(props) {
                             <p>Dolomite , Calcite , Soapstone , China-Clay , Calcined-clay , Wollastonite , Quartz , Feldspar , Manganese , Precipitated-Calcium-Carbonate, Hydrated-Lime , Diatomite</p>
                         </div>
                         <div className="col-md-3 fot_logo">
-                            <Image src="/logo.png" alt="" className="" width={150} height={30} />
+                            <Image src="/logo.png" alt='fillerboy' className="" width={150} height={30}  />
                             <p>At FillerBoy, we're on a mission to revolutionize the world of industrial minerals. Our focus is simple - to create a unique and unparalleled experience for our customers.</p>
                             <ul className="social">
                                 <li><i className="fa fa-facebook"></i></li>
@@ -26,18 +26,18 @@ export default function Footer(props) {
                         <div className="col-md-3 ">
                             <h4 className="fot_title">RESOURCES</h4>
                             <ul className="company_menu">
-                                <li><a href="/about">About</a></li>
-                                <li><a href="/service">Service</a></li>
-                                <li><a href="/product">Product</a></li>
+                                <li><Link href="/about">About</Link></li>
+                                <li><Link href="/service">Service</Link></li>
+                                <li><Link href="/product">Product</Link></li>
                                 
                             </ul>
                         </div>
                         <div className="col-md-3">
                             <h4 className="fot_title">RESOURCES</h4>
                             <ul className="resource_menu">
-                            <li><a href="/blog">Blog</a></li>
+                            <li><Link href="/blog">Blog</Link></li>
                                 {/* <li><a href="/contact">Contact</a></li> */}
-                                <li><a href="/contact">Sitemap</a></li>
+                                <li><Link href="/contact">Sitemap</Link></li>
                             </ul>
                         </div>
                         <div className="col-md-3 fot_logo">

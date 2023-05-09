@@ -20,10 +20,10 @@ export default function Header(props) {
                                 <p>Experience the Power of Customized Minerals</p>
                             </div>
                             <div className="col-md-5 log_bx">
-                                <a href="#" className="call">
-                                    <Image src="/call.png" width={20} height={20} /> +91 81421 01923 
-                                </a>
-                                <a href="#" className="email"> <Image src="/email.png" width={20} height={20} /> info@fillerboy.com </a>
+                                <Link href="#" className="call">
+                                    <Image src="/call.png" width={20} height={20} alt='fillerboy' /> +91 81421 01923 
+                                </Link>
+                                <Link href="#" className="email"> <Image src="/email.png" width={20} height={20} alt='fillerboy'/> info@fillerboy.com </Link>
 
                             </div>
                         </div>
@@ -34,25 +34,25 @@ export default function Header(props) {
                         <div className="menu">
                             <nav className="navbar navbar-expand-sm">
                                 <div className="container-fluid">
-                                    <a className="navbar-brand logo" href="http://0.0.0.0:3000/">
-                                        <Image src="/logo.png" alt=""  width={150} height={40}/>
-                                    </a>
+                                    <Link className="navbar-brand logo" href="http://0.0.0.0:3000/">
+                                        <Image src="/logo.png"  width={150} height={40}  alt='fillerboy' />
+                                    </Link>
                                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
                                         <span className="navbar-toggler-icon"></span>
                                     </button>
                                     <div className="collapse navbar-collapse " id="collapsibleNavbar">
                                         <ul className="navbar-nav">
                                             <li className="nav-item">
-                                                <a className="nav-link" href="/about">About</a>
+                                                <Link className="nav-link" href="/about">About</Link>
                                             </li>
                                             <li className="nav-item">
-                                                <a className="nav-link" href="/service">Services</a>
+                                                <Link className="nav-link" href="/service">Services</Link>
                                             </li>
                                             <li className="nav-item">
-                                                <a className="nav-link" href="/product">Products</a>
+                                                <Link className="nav-link" href="/product">Products</Link>
                                             </li>
                                             <li className="nav-item">
-                                                <a className="nav-link" href="/blog">blog</a>
+                                                <Link className="nav-link" href="/blog">blog</Link>
                                             </li>
                                             {/* <li className="nav-item">
                                                 <a className="nav-link" href="/contact">Contact</a>

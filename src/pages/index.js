@@ -28,8 +28,8 @@ export default function Home() {
 							<p>Transform your industrial game with Fillerboy Pvt. Ltd's awe-inspiring mineral solutions! Our expertise in providing custom-fit mineral products and unparalleled customer service will leave you stunned. Get ready to skyrocket your business.</p>
 							<p></p>
 							<ul>
-								<li><a href="https://play.google.com/store/apps/details?id=com.fillerboycustomer"><Image src="/Playstore.png" width={120} height={40} alt='Rectangle.png' /></a></li>
-								<li><a href=""><Image src="/Appstore.png" width={120} height={40} alt='svdfvd' /></a></li>
+								<li><Link href="https://play.google.com/store/apps/details?id=com.fillerboycustomer"><Image src="/Playstore.png" width={120} height={40} alt='Rectangle.png' /></Link></li>
+								<li><Link href=""><Image src="/Appstore.png" width={120} height={40} alt='svdfvd' /></Link></li>
 							</ul>
 						</div>
 						<div className="col-md-5 banner_right">
@@ -138,20 +138,20 @@ export default function Home() {
 						<h2 className="material_txt">Raw Materials at Lowest Prices-Guaranteed</h2>
 						<div className="material_panel">
 							<div className="material_box">
-								<a href="#"><Image src="/product/CALCITE.png" width={100} height={200} alt='Rectangle.png'/></a>
-								<a href="#"><h5>CALCITE</h5></a>
+								<Link href="#"><Image src="/product/CALCITE.png" width={100} height={200} alt='Rectangle.png'/></Link>
+								<Link href="#"><h5>CALCITE</h5></Link>
 							</div>
 							<div className="material_box">
-								<a href="#"><Image src="/product/DOLOMITE.png" width={100} height={200} alt='Rectangle.png'/></a>
-								<a href="#"><h5>DOLOMITE</h5></a>
+								<Link href="#"><Image src="/product/DOLOMITE.png" width={100} height={200} alt='Rectangle.png'/></Link>
+								<Link href="#"><h5>DOLOMITE</h5></Link>
 							</div>
 							<div className="material_box">
-								<a href="#"><Image src="/product/SOAPSTONE.png" width={100} height={200} alt='Rectangle.png'/></a>
-								<a href="#"><h5>SOAPSTONE</h5></a>
+								<Link href="#"><Image src="/product/SOAPSTONE.png" width={100} height={200} alt='Rectangle.png'/></Link>
+								<Link href="#"><h5>SOAPSTONE</h5></Link>
 							</div>
 							<div className="material_box">
-								<a href="#"><Image src="/product/CHINA-CLAY.png" width={100} height={200} alt='Rectangle.png'/></a>
-								<a href="#"><h5>CHINA CLAY</h5></a>
+								<Link href="#"><Image src="/product/CHINA-CLAY.png" width={100} height={200} alt='Rectangle.png'/></Link>
+								<Link href="#"><h5>CHINA CLAY</h5></Link>
 							</div>
 						</div>
 					</div>

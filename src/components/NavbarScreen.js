@@ -25,9 +25,9 @@ function NavbarScreen() {
           
 
             
-          <a href="https://www.creative-tim.com/product/material-kit-pro" className="btn btn-sm  bg-gradient-primary  mb-0 me-1 mt-2 mt-md-0">About</a>
-          <a href="https://www.creative-tim.com/product/material-kit-pro" className="btn btn-sm  bg-gradient-primary  mb-0 me-1 mt-2 mt-md-0">Product</a>
-          <a href="https://www.creative-tim.com/product/material-kit-pro" className="btn btn-sm  bg-gradient-primary  mb-0 me-1 mt-2 mt-md-0">Service</a>
+          <Link href="https://www.creative-tim.com/product/material-kit-pro" className="btn btn-sm  bg-gradient-primary  mb-0 me-1 mt-2 mt-md-0">About</Link>
+          <Link href="https://www.creative-tim.com/product/material-kit-pro" className="btn btn-sm  bg-gradient-primary  mb-0 me-1 mt-2 mt-md-0">Product</Link>
+          <LInk href="https://www.creative-tim.com/product/material-kit-pro" className="btn btn-sm  bg-gradient-primary  mb-0 me-1 mt-2 mt-md-0">Service</LInk>
             
             <li className="nav-item my-auto ms-3 ms-lg-0">
 

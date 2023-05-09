@@ -27,10 +27,10 @@ export default function () {
 								<p>32-C, Naokda Nagar, Udaipur 313001, Rajasthan, India</p>
 							</li>
 							<li><Image src="/call.png" width={30} height={30} alt='fillerboy' /> Phone <br/>
-								<a href="call:+91 81421 01923">+91 81421 01923</a>
+								<Link href="call:+91 81421 01923">+91 81421 01923</Link>
 							</li>
 							<li><Image src="/mail.png" width={30} height={30}  alt='fillerboy' /> Email <br/>
-								<a href="email:info@fillerboy.com">info@fillerboy.com</a>
+								<Link href="email:info@fillerboy.com">info@fillerboy.com</Link>
 							</li>
 						</ul>
 					</div>

@@ -34,11 +34,11 @@ export default function () {
 												<div className="col-md-12 dolomite_point text-center">
 													<h3>Uses and Applications of Calcite</h3>
 													<ul>
-														<li><a href="#"><i className="fa fa-circle"></i> Cement Industry</a></li>
-														<li><a href="#"><i className="fa fa-circle"></i> Paint Industry</a></li>
-														<li><a href="#"><i className="fa fa-circle"></i> Plastic Industry</a></li>
-														<li><a href="#"><i className="fa fa-circle"></i> Polymer Industry</a></li>
-														<li><a href="#"><i className="fa fa-circle"></i> Pharmaceutical Industry</a></li>
+														<li><Link href="#"><i className="fa fa-circle"></i> Cement Industry</Link></li>
+														<li><Link href="#"><i className="fa fa-circle"></i> Paint Industry</Link></li>
+														<li><Link href="#"><i className="fa fa-circle"></i> Plastic Industry</Link></li>
+														<li><Link href="#"><i className="fa fa-circle"></i> Polymer Industry</Link></li>
+														<li><Link href="#"><i className="fa fa-circle"></i> Pharmaceutical Industry</Link></li>
 														
 														
 													</ul>

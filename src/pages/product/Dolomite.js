@@ -33,12 +33,12 @@ export default function () {
 												<div className="col-md-12 dolomite_point text-center">
 													<h3>Uses and Applications of Dolomite</h3>
 													<ul>
-														<li><a href="#"><i className="fa fa-circle"></i> Concrete</a></li>
-														<li><a href="#"><i className="fa fa-circle"></i> Detergent</a></li>
-														<li><a href="#"><i className="fa fa-circle"></i> Agriculture</a></li>
-														<li><a href="#"><i className="fa fa-circle"></i> Rubber</a></li>
-														<li><a href="#"><i className="fa fa-circle"></i> Ceramic</a></li>
-														<li><a href="#"><i className="fa fa-circle"></i> Glass</a></li>
+														<li><Link href="#"><i className="fa fa-circle"></i> Concrete</Link></li>
+														<li><Link href="#"><i className="fa fa-circle"></i> Detergent</Link></li>
+														<li><Link href="#"><i className="fa fa-circle"></i> Agriculture</Link></li>
+														<li><Link href="#"><i className="fa fa-circle"></i> Rubber</Link></li>
+														<li><Link href="#"><i className="fa fa-circle"></i> Ceramic</Link></li>
+														<li><Link href="#"><i className="fa fa-circle"></i> Glass</Link></li>
 														
 													</ul>
 													{/* <ul>
