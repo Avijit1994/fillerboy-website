@@ -21,7 +21,7 @@ export default function Home() {
 				<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></link>
 			</Head>
 			<div>
-			<section className="home">
+			<div className="home">
 				<div className="container">
 					<div className="row banner">
 						<div className="col-md-7 banner_left">
@@ -196,7 +196,7 @@ export default function Home() {
 						</div> */}
 					</div>
 				</div>
-			</section>
+			</div>
 			</div>
 			<Footer />
 			<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
