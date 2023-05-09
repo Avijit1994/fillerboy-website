@@ -17,8 +17,8 @@ export default function Home() {
 
 			<Head>
 				<title> | Fillerboy</title>
-				<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" />
-				<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></link>
+				<script href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" />
+				<script rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></script>
 			</Head>
 			<div>
 			<div className="home">
@@ -205,4 +205,5 @@ export default function Home() {
 		</>
 		
 	)
+
 }
