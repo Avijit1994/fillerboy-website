@@ -34,7 +34,7 @@ export default function Blog() {
                                     </div>
                                      {/* 2 */}
                                     <div className="blog_box">
-                                        <Link href="/blog/dolomite-mineral-compound-that-contains"><Image src="/blog/2. Dolomite is a mineral compound that contains calcium magnesium carbonate (CaMg(CO3)2) in varying proportions.jpg" width={100} height={300} /></Link>
+                                        <Link href="/blog/dolomite-mineral-compound-that-contains"><Image src="/blog/2. Dolomite is a mineral compound that contains calcium magnesium carbonate (CaMg(CO3)2) in varying proportions.jpg" width={100} height={300} alt='fillerboy'  /></Link>
                                         <Link href="/blog/dolomite-mineral-compound-that-contains"><h5>Dolomite is a mineral compound that contains calcium magnesium carbonate (CaMg(CO3)2) in varying proportions</h5></Link>
                                     </div>
                                      {/* 3 */}
@@ -84,7 +84,7 @@ export default function Blog() {
                                     </div>
                                      {/* 12 */}
                                     <div className="blog_box">
-                                        <Link href="/blog/Top-Grade-Calcite-Minerals"><Image src="/blog/12. Elevate Your Industrial Game with FILLERBOY.COM's Top-Grade Calcite Minerals.jpg" width={100} height={300} /></Link>
+                                        <Link href="/blog/Top-Grade-Calcite-Minerals"><Image src="/blog/12. Elevate Your Industrial Game with FILLERBOY.COM's Top-Grade Calcite Minerals.jpg" width={100} height={300} alt='fillerboy'  /></Link>
                                         <Link href="/blog/Top-Grade-Calcite-Minerals"><h5>Elevate Your Industrial Game with FILLERBOY.COM's Top-Grade Calcite Minerals</h5></Link>
                                     </div>
                                     {/* 13 */}
