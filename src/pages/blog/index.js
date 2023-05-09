@@ -7,7 +7,14 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import Link from 'next/link';
 
 import Image from 'next/image'
-
+var str,
+element = document.getElementById('cal_preview');
+if (element != null) {
+    str = element.value;
+}
+else {
+    str = null;
+}
 export default function Blog() {
     return (
         <>
